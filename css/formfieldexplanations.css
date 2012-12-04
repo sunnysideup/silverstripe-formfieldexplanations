@@ -1,0 +1,3 @@
+.formfieldexplanations {display: none;}
+p.field, div.field {position: relative;}
+.formfieldexplanations {position: absolute; top: 0; right: 0; width: 150px; background-color: orange; padding: 0.4em;}
