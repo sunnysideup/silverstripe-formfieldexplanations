@@ -1,5 +1,5 @@
 {
-	"name": "silverstripe/formfieldexplanations",
+	"name": "sunnysideup/formfieldexplanations",
 	"type": "silverstripe-module",
 	"description": "adds little 'explanation' fields to your Silverstripe form fields, which pop-up as the fields comes in focus. These messages are editable in the CMS.",
 	"homepage": "http://www.silverstripe-webdevelopment.com",
