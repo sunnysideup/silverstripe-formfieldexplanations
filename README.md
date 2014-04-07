@@ -30,7 +30,7 @@ Installation Instructions
 2. Review configs and add entries to mysite/_config/config.yml
 (or similar) as necessary.
 In the _config/ folder of this module
-you should to find some examples of config options (if any).
+you can usually find some examples of config options (if any).
 
 3. whenever you build a form in PHP, as per usual, add this stuff at the end:
 	function MyForm() {
