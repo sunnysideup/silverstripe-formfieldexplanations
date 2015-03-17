@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class xmlns="http://xml.phpdox.net/src" full="FormFieldExplanation" namespace="" name="FormFieldExplanation" abstract="false" final="false" start="10" end="67">
+  <file path="/var/www/_modules/formfieldexplanations/trunk/docs/en/phpdox/../../../code/model" file="FormFieldExplanation.php" realpath="/var/www/_modules/formfieldexplanations/trunk/code/model/FormFieldExplanation.php" size="1849" time="2015-03-14T10:23:34+13:00" unixtime="1426281814" sha1="c75bb77e3b7719295f2c2a223f42504a0c6738ea" relative="code/model/FormFieldExplanation.php"/>
+  <docblock>
+    <description compact="author nicolaas[at]sunnysideup.co.nz description contains a list of form field and their explantions"/>
+  </docblock>
+  <extends full="DataObject" namespace="" name="DataObject"/>
+  <member name="db" type="array" visibility="public" line="12"/>
+  <member name="has_one" type="array" visibility="public" line="21"/>
+  <member name="indexes" type="array" visibility="public" line="25"/>
+  <member name="searchable_fields" type="array" visibility="public" line="29"/>
+  <member name="field_labels" type="array" visibility="public" line="33"/>
+  <member name="summary_fields" type="array" visibility="public" line="42"/>
+  <method name="getCMSFields" start="46" end="52" abstract="false" final="false" static="false" visibility="public"/>
+  <method name="getFrontEndFields" start="54" end="60" abstract="false" final="false" static="false" visibility="public"/>
+  <member name="singular_name" type="string" default="&quot;Form Field Explanation&quot;" visibility="public" line="62"/>
+  <member name="plural_name" type="string" default="&quot;Form Field Explanations&quot;" visibility="public" line="64"/>
+</class>

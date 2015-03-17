@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source xmlns="http://xml.phpdox.net/src">
+  <dir name="/var/www/_modules/formfieldexplanations/trunk">
+    <file name="_config.php" size="615" time="2015-03-14T10:23:34+13:00" unixtime="1426281814" sha1="20fbb912d7c8d473f2e62cde07cc65a0e5701499" xml="tokens/_config.php.xml"/>
+    <dir name="code">
+      <dir name="model">
+        <file name="FormFieldExplanation.php" size="1849" time="2015-03-14T10:23:34+13:00" unixtime="1426281814" sha1="c75bb77e3b7719295f2c2a223f42504a0c6738ea" xml="tokens/code/model/FormFieldExplanation.php.xml"/>
+      </dir>
+      <dir name="extensions">
+        <file name="FormFieldExplanationDecorator.php" size="1524" time="2015-03-14T10:23:34+13:00" unixtime="1426281814" sha1="1064c65fb753f6f51799ccda292fc8f2ad62b16f" xml="tokens/code/extensions/FormFieldExplanationDecorator.php.xml"/>
+        <file name="FormFieldExplanationExtension.php" size="6527" time="2015-03-14T10:23:34+13:00" unixtime="1426281814" sha1="bef1842503d04288b6f1ffd8fbfc05ba8c84b412" xml="tokens/code/extensions/FormFieldExplanationExtension.php.xml"/>
+      </dir>
+      <file name="UserDefinedFormWithExplanations.php" size="531" time="2015-03-14T10:23:34+13:00" unixtime="1426281814" sha1="1bb1e9440bc383bc5e27b1b5afe05d661c5f2358" xml="tokens/code/UserDefinedFormWithExplanations.php.xml"/>
+    </dir>
+  </dir>
+</source>

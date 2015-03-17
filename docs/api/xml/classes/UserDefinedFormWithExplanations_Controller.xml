@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class xmlns="http://xml.phpdox.net/src" full="UserDefinedFormWithExplanations_Controller" namespace="" name="UserDefinedFormWithExplanations_Controller" abstract="false" final="false" start="17" end="29">
+  <file path="/var/www/_modules/formfieldexplanations/trunk/docs/en/phpdox/../../../code" file="UserDefinedFormWithExplanations.php" realpath="/var/www/_modules/formfieldexplanations/trunk/code/UserDefinedFormWithExplanations.php" size="531" time="2015-03-14T10:23:34+13:00" unixtime="1426281814" sha1="1bb1e9440bc383bc5e27b1b5afe05d661c5f2358" relative="code/UserDefinedFormWithExplanations.php"/>
+  <extends full="UserDefinedForm_Controller" namespace="" name="UserDefinedForm_Controller"/>
+  <method name="init" start="19" end="21" abstract="false" final="false" static="false" visibility="public"/>
+  <method name="Form" start="23" end="27" abstract="false" final="false" static="false" visibility="public"/>
+</class>

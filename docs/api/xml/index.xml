@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index xmlns="http://xml.phpdox.net/src" basedir="/var/www/_modules/formfieldexplanations/trunk">
+  <namespace name="">
+    <class name="FormFieldExplanation" src="code/model/FormFieldExplanation.php" description="author nicolaas[at]sunnysideup.co.nz description contains a list of form field and their explantions" xml="classes/FormFieldExplanation.xml"/>
+    <class name="FormFieldExplanationDecorator" src="code/extensions/FormFieldExplanationDecorator.php" description="author nicolaas[at]sunnysideup.co.nz description contains a list of form fields and their explantions, is added to SiteTree" xml="classes/FormFieldExplanationDecorator.xml"/>
+    <class name="FormFieldExplanationExtension" src="code/extensions/FormFieldExplanationExtension.php" description="author nicolaas[at]sunnysideup.co.nz description contains a list of form field and their explantions" xml="classes/FormFieldExplanationExtension.xml"/>
+    <class name="UserDefinedFormWithExplanations" src="code/UserDefinedFormWithExplanations.php" xml="classes/UserDefinedFormWithExplanations.xml"/>
+    <class name="UserDefinedFormWithExplanations_Controller" src="code/UserDefinedFormWithExplanations.php" xml="classes/UserDefinedFormWithExplanations_Controller.xml"/>
+  </namespace>
+</index>
