@@ -12,4 +12,3 @@
 //Object::add_extension('ContentController', 'FormFieldExplanationExtension');
 //FormFieldExplanationDecorator::set_show_fields_in_cms(true);
 //===================---------------- END formfieldexplanations MODULE ----------------===================
-

@@ -3,8 +3,10 @@
     "type": "silverstripe-module",
     "description": "adds little 'explanation' fields to your Silverstripe form fields, which pop-up as the fields comes in focus. These messages are editable in the CMS.",
     "keywords": [
-        "formfieldexplanations",
-        "silverstripe"
+        "Silverstripe-CMS",
+        "CMS",
+        "Silverstripe",
+        "formfieldexplanations"
     ],
     "license": "Sunny Side Up (BSD-3-Clause and CUSTOM)",
     "authors": [
@@ -15,7 +17,8 @@
         }
     ],
     "require": {
-        "silverstripe/framework": "~2.4"
+        "silverstripe/framework": "~2.4",
+        "silverstripe/cms": "~2.4"
     },
     "extra": {
         "installer-name": "formfieldexplanations"
